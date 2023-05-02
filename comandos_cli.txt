@@ -1,0 +1,14 @@
+interface vlan60
+description cisco profes
+ip address 192.168.10.10 255.255.255.0
+end
+
+interface vlan61
+description cisco profes
+ip address 192.168.10.20 255.255.255.0
+end
+
+interface vlan63
+description cisco profes
+ip address 192.168.10.30 255.255.255.0
+end
